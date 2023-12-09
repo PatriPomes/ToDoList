@@ -97,14 +97,5 @@
         "status": "In Progress",
         "created_by": "PAACO",
         "task_id": 11
-    },
-    {
-        "task_name": "vfsfg",
-        "task_description": "mundo",
-        "start_date": "2023-11-09",
-        "finish_date": "2023-11-10",
-        "status": "Cancelled",
-        "created_by": "patri",
-        "task_id": 12
     }
 ]
